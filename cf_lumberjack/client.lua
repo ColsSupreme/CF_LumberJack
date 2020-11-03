@@ -424,7 +424,6 @@ function Jeweler()
     }, function(data, menu)
         local item1 = CF.GetInventory()['log']
         local item2 = CF.GetInventory()['planks']
-        
         local item3 = CF.GetInventory()['sawdust']
         local item4 = CF.GetInventory()['paper']
         if data.current.value == 'logs' then
