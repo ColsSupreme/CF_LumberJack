@@ -13,8 +13,8 @@ Config.SellX = 2684.65
 Config.SellY = 3515.57
 Config.SellZ = 52.3
 
-Config.LogPrice = 50
-Config.PlankPrice = 30
-Config.SawdustPrice = 20
-Config.PaperPrice = 60
+Config.LogPrice = 80
+Config.PlankPrice = 45
+Config.SawdustPrice = 30
+Config.PaperPrice = 90
 
